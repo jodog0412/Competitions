@@ -1,8 +1,8 @@
-# DACON
-https://dacon.io
+# Competitions
+DACON: https://dacon.io
 \
 \
-It concludes several files for competitions in DACON.
+It concludes several files for competition.
 
 ## Complete
 * __탄소중립을 위한 기후기술 정보 시각화 경진대회__ 
