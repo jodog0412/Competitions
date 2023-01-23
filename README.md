@@ -7,6 +7,6 @@ https://dacon.io/competitions/official/236035/overview/description
 * classes balancing by __`BorderlineSMOTE`__
 * AutoML by __`pycaret`__
 ## Result
-* My accuracy: 95.6/100
+* My accuracy: 96.7/100
 * Top accuracy: 99.4/100
 
